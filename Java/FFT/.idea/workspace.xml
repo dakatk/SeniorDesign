@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d07a314f-8e20-4ad8-95b6-c298d196efcc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UTufSNZ5SQj750nQmxcua7Fycq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="FFT" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Inspections" timestamp="1575565200108">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1575565200108" />
+    <state x="248" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575510576542">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="248" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1575510576542" />
+    <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575510377525">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="457" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1575510377525" />
+    <state width="1419" height="418" key="GridCell.Tab.0.bottom" timestamp="1575568067070">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1003" height="418" key="GridCell.Tab.0.bottom/0.0.1024.640@0.0.1024.640" timestamp="1575565870733" />
+    <state width="1419" height="418" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1575568067070" />
+    <state width="1419" height="418" key="GridCell.Tab.0.center" timestamp="1575568067068">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1003" height="418" key="GridCell.Tab.0.center/0.0.1024.640@0.0.1024.640" timestamp="1575565870731" />
+    <state width="1419" height="418" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1575568067068" />
+    <state width="1419" height="418" key="GridCell.Tab.0.left" timestamp="1575568067066">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1003" height="418" key="GridCell.Tab.0.left/0.0.1024.640@0.0.1024.640" timestamp="1575565870731" />
+    <state width="1419" height="418" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1575568067066" />
+    <state width="1419" height="418" key="GridCell.Tab.0.right" timestamp="1575568067069">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1003" height="418" key="GridCell.Tab.0.right/0.0.1024.640@0.0.1024.640" timestamp="1575565870732" />
+    <state width="1419" height="418" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1575568067069" />
+  </component>
+</project>
